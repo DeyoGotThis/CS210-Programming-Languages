@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (compound interest calc.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Calc.cpp
+C:\Users\yhwh2\source\repos\compound interest calc\compound interest calc\Calc.cpp(163,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yhwh2\source\repos\compound interest calc\compound interest calc\Calc.cpp(164,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  compound interest calc.vcxproj -> C:\Users\yhwh2\source\repos\compound interest calc\x64\Debug\Compound Interest Calculator.exe
