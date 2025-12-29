@@ -1,0 +1,6 @@
+﻿  Grocer.cpp
+C:\Users\yhwh2\source\repos\CornerGrocerProgram\CornerGrocerProgram\Grocer.cpp(36,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\yhwh2\source\repos\CornerGrocerProgram\CornerGrocerProgram\Grocer.cpp(38,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\yhwh2\source\repos\CornerGrocerProgram\CornerGrocerProgram\Grocer.cpp(106): warning C4715: 'DailyPurchasedItems::MainMenu': not all control paths return a value
+C:\Users\yhwh2\source\repos\CornerGrocerProgram\CornerGrocerProgram\Grocer.cpp(82): warning C4715: 'DailyPurchasedItems::ScreenOne': not all control paths return a value
+  CornerGrocerProgram.vcxproj -> C:\Users\yhwh2\source\repos\CornerGrocerProgram\x64\Debug\CornerGrocerProgram.exe
